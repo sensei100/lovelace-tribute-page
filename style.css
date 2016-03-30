@@ -1,0 +1,47 @@
+#title {
+  margin: 50px 0 0 0;
+  text-align: center;
+  font-family: Lucida Console;
+  color: #E08E79;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.maud {
+  margin: 40px;
+  border: 2px solid #774F38;
+  float: left; 
+}
+
+p {
+  margin-top: 30px;
+  font-size: 20px;
+  font-family: Lucida Console;
+  width: 100%;
+  color: #774F38;
+}
+
+#betsy {
+  margin-top: 30px;
+  border: 2px solid #774F38;
+}
+
+#copyright {
+  margin: 0;
+  font-size: 12px;
+}
+
+a {
+  color: #E08E79;
+  text-decoration: none;
+}
+body {
+background-size: 50px 50px;
+background-color: #C5E0DC;
+background-image: -webkit-linear-gradient(rgba(197, 224, 220, .2) 50%, transparent 50%, transparent);
+background-image: -moz-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+background-image: linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+-pie-background: linear-gradient(rgba(255, 255, 255,.2) 50%, transparent 50%, transparent) 0 0 / 50px #0ae;
+behavior: url(/pie/PIE.htc);
+}
+
